@@ -8,4 +8,5 @@ numpy==1.24.3
 tqdm==4.67.1   
 matplotlib==3.9.3 
 scikit-learn==1.5.2   
-jupyter==1.0.0    
+jupyter==1.0.0  
+optuna==4.1.0  
